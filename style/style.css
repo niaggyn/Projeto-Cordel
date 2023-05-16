@@ -16,6 +16,7 @@
 html, body {
     min-height: 100vh;
     background-color: blanchedalmond;
+    padding: 0px;
 }
 header {
     background-color: black;
